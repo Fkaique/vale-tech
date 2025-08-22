@@ -46,7 +46,7 @@ function App() {
                         <p>Acima de tudo, é fundamental ressaltar que o acompanhamento das preferências de consumo faz parte de um processo de gerenciamento das diversas correntes de pensamento.</p>
                     </div>
                     <div className="imagem">
-                        <img src="src/images/logo-preto.png" alt=""/>
+                        <img src="images/logo-preto.png" alt=""/>
                     </div>
                 </section>
             </div>
